@@ -1,6 +1,6 @@
 
 # SocialMediaApp
-# Social Media App Where You Can make Your Account And Make Friends With Others Who Have Already There Account On This Meet App. You Can Share Images And Text And Like Posts.
+<h3>Social Media App Where You Can make Your Account And Make Friends With Others Who Have Already There Account On This Meet App. You Can Share Images And Text And Like Posts.</h3>
 
 
 ![first](https://user-images.githubusercontent.com/87888901/160231482-7b49efb8-9aae-4b49-bd0e-516debdf1367.png)
